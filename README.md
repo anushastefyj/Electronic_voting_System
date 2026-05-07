@@ -33,6 +33,13 @@ The project follows a full-stack client-server architecture:
 - **Communication:** RESTful APIs using Axios
 
 ---
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/923ea447-9367-4bcf-b4ad-24046da6852e" />
+
+<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/0692160e-8eba-4539-98f4-2033883dc04f" />
+
+<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/ffa91d7c-eb0d-43e4-bfa6-8d851d66d1ae" />
+
+<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/7cdd2b4f-4b8a-4635-a52d-b60ce82ea9b1" />
 
 # 🗂️ Project Structure
 
@@ -79,18 +86,4 @@ passedstatus = 3
 Voter ID generated successfully
         ↓
 approvedstatus = 1
-    
-<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/923ea447-9367-4bcf-b4ad-24046da6852e" />
 
-<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/0692160e-8eba-4539-98f4-2033883dc04f" />
-
-<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/ffa91d7c-eb0d-43e4-bfa6-8d851d66d1ae" />
-
-<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/7cdd2b4f-4b8a-4635-a52d-b60ce82ea9b1" />
-
-
-
-
-
-    
-   
