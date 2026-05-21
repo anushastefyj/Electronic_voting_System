@@ -32,6 +32,14 @@ The main objective of this project is to replace the traditional paper-based vot
 - Manage voter registration and approval efficiently
 
 ---
+# Live Deployment
+
+| Service | Link |
+|----------|------|
+| Frontend | https://electronic-voting-system-orpin.vercel.app |
+| Backend API | https://electronicvotingsystem-production.up.railway.app |
+
+---
 
 # Features
 
@@ -85,16 +93,6 @@ The project follows a full-stack client-server architecture:
 - Railway (Backend)
 
 ---
-
-# Live Deployment
-
-| Service | Link |
-|----------|------|
-| Frontend | https://electronic-voting-system-orpin.vercel.app |
-| Backend API | https://electronicvotingsystem-production.up.railway.app |
-
----
-
 
 
 # Project Structure
