@@ -1,6 +1,7 @@
 # Electronic Voting System (EVS)
 
-Live Demo: https://your-vercel-app.vercel.app  
+Live Demo: https://electronic-voting-system-orpin.vercel.app  
+
 Backend API: https://electronicvotingsystem-production.up.railway.app
 
 A secure, scalable, and role-based Electronic Voting System developed using React, Spring Boot, and MySQL.
@@ -159,7 +160,7 @@ approvedstatus = 1
 
 | Service | Link |
 |----------|------|
-| Frontend | https://your-vercel-app.vercel.app |
+| Frontend | https://electronic-voting-system-orpin.vercel.app |
 | Backend API | https://electronicvotingsystem-production.up.railway.app |
 
 ---
@@ -267,7 +268,6 @@ api.post("/auth/login", data)
 - Mobile Application Support
 
 ---
-
 
 # Support
 
